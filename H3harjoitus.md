@@ -4,7 +4,7 @@ Tämä harjoitus on tehty osana Tero Karvisen palvelinten hallinta kurssia. Harj
 
 ## z) Lue ja tiivistä
 
-[Lähde](commonmark.org/help/)
+[Lähde](https://commonmark.org/help/)
 
 - Artikkelissa kerrotaan markdownin käyttöön liittyvät tärkeät komennot.
 
@@ -34,13 +34,13 @@ Tähän asti kirjoittamani raportin tallensin, ja kirjoitin komennot `git add RE
 
 ## b) Pull first. Tee useita muutoksia git-varastoosi. Tee muutama muutos, jossa yksi commit koskee useampaa tiedostoa. Anna hyvä kuvaukset (commit message), yksi englanninkielinen lause imperatiivissa (määräysmuodossa) "Add top level menu to Foobar synchronizer"
 
-Tein muutoksia H3harjoitus.md tiedostoon sekä README.md tiedostoon. Lisäsin osia harjoitukseen, sekä muutin tietoa README.md:ssä vastaamaan repositoryn sisältöä. Loin myös uuden kansion nimellä screenshots komennolla `mkdir screenshots` ollessani github hakemistossa, jotta saan kuvia asetettua helpommin tähän raporttiin. Tähän löysin apua [Tuuli Huhtasen raportista](github.com/tuuli-huhtanen/palvelintenhallinta/blob/main/h3-versionhallinta.md), hän oli löytänyt ohjeita siihen [täältä](careerkarma.com/blog/git-create-folder-in-github/).
+Tein muutoksia H3harjoitus.md tiedostoon sekä README.md tiedostoon. Lisäsin osia harjoitukseen, sekä muutin tietoa README.md:ssä vastaamaan repositoryn sisältöä. Loin myös uuden kansion nimellä screenshots komennolla `mkdir screenshots` ollessani github hakemistossa, jotta saan kuvia asetettua helpommin tähän raporttiin. Tähän löysin apua [Tuuli Huhtasen raportista](https://github.com/tuuli-huhtanen/palvelintenhallinta/blob/main/h3-versionhallinta.md), hän oli löytänyt ohjeita siihen [täältä](https://careerkarma.com/blog/git-create-folder-in-github/).
 
 Kansiot eivät ole tyhjänä näkyvissä GitHubissa, joten loin myös screenshots kansioon tyhjän tiedoston komennolla `touch screenshots/.gitkeep`.
 
-![Image](raw.githubusercontent.com/taanttila/PalvHalH3/main/screenshots/gitadd.PNG)
+![Image](https://raw.githubusercontent.com/taanttila/PalvHalH3/main/screenshots/gitadd.PNG)
 
-![Image](raw.githubusercontent.com/taanttila/PalvHalH3/main/screenshots/gitcommit.PNG)
+![Image](https://raw.githubusercontent.com/taanttila/PalvHalH3/main/screenshots/gitcommit.PNG)
 
 ## b) Kaikki kirjataan. Näytä omalla git-varastollasi esimerkit komennoista 'git log', 'git diff' ja 'git blame'. Selitä tulokset.
 
