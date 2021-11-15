@@ -16,7 +16,7 @@ Tämä harjoitus on tehty osana Tero Karvisen palvelinten hallinta kurssia. Harj
 
 - Sisennys luominen tabulaattorilla merkitsee koodin kirjoittamista.
 
-- Otsikko jonka kirjoitin boldilla, onnistuu kirjoittamalla kaksi tähteä * bold sanan molemmille puolille.
+- Otsikko jonka kirjoitin boldilla, onnistuu kirjoittamalla kaksi tähteä * boldattavan sanan molemmille puolille.
 
 ## a) MarkDown. Tee tämän tehtävän raportti MarkDownina. Helpointa on tehdä raportti GitHub-varastoon, jolloin md-päätteiset tiedostot muotoillaan automaattisesti. Tyhjä rivi tekee kappalejaon, risuaita '#' tekee otsikon, sisennys merkitsee koodinpätkän.
 
