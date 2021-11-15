@@ -32,5 +32,7 @@ Tämän jälkeen kirjoitin komennon git pull joka päivitti hakemiston tiedoilla
 
 Tähän asti kirjoittamani raportin tallensin, ja kirjoitin komennot `git add README.md` sekä `git commit`.
 
+## b) Pull first. Tee useita muutoksia git-varastoosi. Tee muutama muutos, jossa yksi commit koskee useampaa tiedostoa. Anna hyvä kuvaukset (commit message), yksi englanninkielinen lause imperatiivissa (määräysmuodossa) "Add top level menu to Foobar synchronizer"
 
+Tein muutoksia H3harjoitus.md tiedostoon sekä README.md tiedostoon. 
 
