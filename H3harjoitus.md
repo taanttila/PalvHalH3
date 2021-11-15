@@ -10,7 +10,7 @@ Tämä harjoitus on tehty osana Tero Karvisen palvelinten hallinta kurssia. Harj
 
 - Tyhjä rivi tekee kappalejaon, nämä ranskalaiset viivat tulevat samalla tavalla kuin muuallakin, mutta myös *-merkkiä voi käyttää listojen tekemiseen.
 
-- Nettisivun linkkaus tapahtuu 'Link'(nettisivun osoite)' komennolla, ja Linkin molemmin puolin asetetaan hakasulut ([]).
+- Nettisivun linkkaus tapahtuu 	'[Link](nettisivun osoite)' komennolla.
 
 - Risuaita/Hashtag eli # luo otsikon, kaksi risuaitaa ## luo otsikko kakkosen.
 
