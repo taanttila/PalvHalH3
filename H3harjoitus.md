@@ -1,8 +1,8 @@
-#h3 Versionhallinta
+# h3 Versionhallinta
 
 Tämä harjoitus on tehty osana Tero Karvisen palvelinten hallinta kurssia. Harjoitukset tehtiin VirtualBoxille asennetulla Debian 11 Bullseye virtuaalikoneella.
 
-##z) Lue ja tiivistä
+## z) Lue ja tiivistä
 
 [Lähde](commonmark.org/help/)
 
@@ -18,7 +18,7 @@ Tämä harjoitus on tehty osana Tero Karvisen palvelinten hallinta kurssia. Harj
 
 - Otsikko jonka kirjoitin boldilla, onnistuu kirjoittamalla kaksi tähteä * bold sanan molemmille puolille.
 
-**##a) MarkDown. Tee tämän tehtävän raportti MarkDownina. Helpointa on tehdä raportti GitHub-varastoon, jolloin md-päätteiset tiedostot muotoillaan automaattisesti. Tyhjä rivi tekee kappalejaon, risuaita '#' tekee otsikon, sisennys merkitsee koodinpätkän.**
+## a) MarkDown. Tee tämän tehtävän raportti MarkDownina. Helpointa on tehdä raportti GitHub-varastoon, jolloin md-päätteiset tiedostot muotoillaan automaattisesti. Tyhjä rivi tekee kappalejaon, risuaita '#' tekee otsikon, sisennys merkitsee koodinpätkän.
 
 Aloitin tehtävän teon luomalla uuden repositoryn githubiini nimellä **PalvHalH3** . Lisäsin sinne tiedoston nimellä **H3harjoitus.md**.
 
