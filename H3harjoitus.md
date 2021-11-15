@@ -4,7 +4,7 @@ Tämä harjoitus on tehty osana Tero Karvisen palvelinten hallinta kurssia. Harj
 
 **##z) Lue ja tiivistä**
 
-[Link](commonmark.org/help/)
+[Lähde](commonmark.org/help/)
 
 - Artikkelissa kerrotaan markdownin käyttöön liittyvät tärkeät komennot.
 
