@@ -44,7 +44,15 @@ Kansiot eivät ole tyhjänä näkyvissä GitHubissa, joten loin myös screenshot
 
 ## b) Kaikki kirjataan. Näytä omalla git-varastollasi esimerkit komennoista 'git log', 'git diff' ja 'git blame'. Selitä tulokset.
 
+Kokeilin komentoa `git log` joka näyttää kaikki muutokset mitä on tehty. Siitä näkee Authorin, eli kuka on tehnyt muutokset, päivämäärän sekä tekijän kommentit.
 
+![Image](https://raw.githubusercontent.com/taanttila/PalvHalH3/main/screenshots/gitlog.PNG)
+
+Löysin samalta kurssitoteutukselta olevalta [Tuomas Lintulalta ja hänen tekemästään raportista](https://github.com/tuomaslin/palvelintenhallinta/blob/main/MarkDown.md) komennon `git log --pretty=oneline` joka tulostaa historian lyhyemmässä muodossa. Kokeilin myös tätä komentoa.
+
+![Image](https://raw.githubusercontent.com/taanttila/PalvHalH3/main/screenshots/gitlogpretty.PNG)
+
+Kokeilin myös komentoa `git blame` 
 
 
 
