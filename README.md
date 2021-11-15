@@ -1,2 +1,2 @@
 # PalvHalH3
-Palvelilten hallinta kurssin kolmannet harjoitustehtävät
+Palvelinten hallinta kurssin kolmannet harjoitustehtävät
