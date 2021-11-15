@@ -38,21 +38,27 @@ Tein muutoksia H3harjoitus.md tiedostoon sekä README.md tiedostoon. Lisäsin os
 
 Kansiot eivät ole tyhjänä näkyvissä GitHubissa, joten loin myös screenshots kansioon tyhjän tiedoston komennolla `touch screenshots/.gitkeep`.
 
-![Image](https://raw.githubusercontent.com/taanttila/PalvHalH3/main/screenshots/gitadd.PNG)
+![Image](https://raw.githubusercontent.com/taanttila/palvelintenhallinta/main/screenshots/gitadd.PNG)
 
-![Image](https://raw.githubusercontent.com/taanttila/PalvHalH3/main/screenshots/gitcommit.PNG)
+![Image](https://raw.githubusercontent.com/taanttila/palvelintenhallinta/main/screenshots/gitcommit.PNG)
 
 ## b) Kaikki kirjataan. Näytä omalla git-varastollasi esimerkit komennoista 'git log', 'git diff' ja 'git blame'. Selitä tulokset.
 
 Kokeilin komentoa `git log` joka näyttää kaikki muutokset mitä on tehty. Siitä näkee Authorin, eli kuka on tehnyt muutokset, päivämäärän sekä tekijän kommentit.
 
-![Image](https://raw.githubusercontent.com/taanttila/PalvHalH3/main/screenshots/gitlog.PNG)
+![Image](https://raw.githubusercontent.com/taanttila/palvelintenhallinta/main/screenshots/gitlog.PNG)
 
 Löysin samalta kurssitoteutukselta olevalta [Tuomas Lintulalta ja hänen tekemästään raportista](https://github.com/tuomaslin/palvelintenhallinta/blob/main/MarkDown.md) komennon `git log --pretty=oneline` joka tulostaa historian lyhyemmässä muodossa. Kokeilin myös tätä komentoa.
 
-![Image](https://raw.githubusercontent.com/taanttila/PalvHalH3/main/screenshots/gitlogpretty.PNG)
+![Image](https://raw.githubusercontent.com/taanttila/palvelintenhallinta/main/screenshots/gitlogpretty.PNG)
 
-Kokeilin myös komentoa `git blame`. 
+Kokeilin myös komentoa `git blame`. Tämä komento kertoo kuka on tehnyt muutoksia valitsemaasi tiedostoon. Ajoin komennon `git blame README.md` jolloin näkyviin tuli muutoksen tekijä, SHA avain, päivämäärä ja mikä muutos tehty.
+
+![Image](https://raw.githubusercontent.com/taanttila/palvelintenhallinta/main/screenshots/gitblame.PNG)
+
+## c) Huppis! Tee tyhmä muutos gittiin, älä tee commit:tia. Tuhoa huonot muutokset 'git reset --hard'. Huomaa, että tässä toiminnossa ei ole peruutusnappia.
+
+
 
 
 
