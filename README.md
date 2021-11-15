@@ -28,4 +28,8 @@ Sitten siirryin PalvHalH3 hakemistoon, ja loin uuden MarkDown tiedoston jonka ni
 
 Luotuani tiedoston aloin editoimaan sitä käyttäen nano tekstieditoria, johon olenkin kirjoittanut kaiken mitä tässä lukee.
 
-Tähän asti kirjoittamani raportin tallensin, ja kirjoitin komennot **git add README.md** sekä **git commit**
+Tähän asti kirjoittamani raportin tallensin, ja kirjoitin komennot **git add README.md** sekä **git commit**.
+
+Tämän jälkeen loin ssh-avaimet komennolla **ssh-keygen ecdsa**, jotta pystyisin pushaamaan tiedostot GitHubiin.
+
+
