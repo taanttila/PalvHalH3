@@ -52,7 +52,7 @@ Löysin samalta kurssitoteutukselta olevalta [Tuomas Lintulalta ja hänen tekem�
 
 ![Image](https://raw.githubusercontent.com/taanttila/PalvHalH3/main/screenshots/gitlogpretty.PNG)
 
-Kokeilin myös komentoa `git blame` 
+Kokeilin myös komentoa `git blame`. 
 
 
 
