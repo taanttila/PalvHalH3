@@ -1,8 +1,8 @@
-**#h3 Versionhallinta##**
+#h3 Versionhallinta
 
 Tämä harjoitus on tehty osana Tero Karvisen palvelinten hallinta kurssia. Harjoitukset tehtiin VirtualBoxille asennetulla Debian 11 Bullseye virtuaalikoneella.
 
-**##z) Lue ja tiivistä##**
+##z) Lue ja tiivistä
 
 [Lähde](commonmark.org/help/)
 
