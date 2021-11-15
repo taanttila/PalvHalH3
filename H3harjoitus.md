@@ -20,7 +20,7 @@ Tämä harjoitus on tehty osana Tero Karvisen palvelinten hallinta kurssia. Harj
 
 ## a) MarkDown. Tee tämän tehtävän raportti MarkDownina. Helpointa on tehdä raportti GitHub-varastoon, jolloin md-päätteiset tiedostot muotoillaan automaattisesti. Tyhjä rivi tekee kappalejaon, risuaita '#' tekee otsikon, sisennys merkitsee koodinpätkän.
 
-Aloitin tehtävän teon luomalla uuden repositoryn githubiini nimellä **PalvHalH3** . Lisäsin sinne tiedoston nimellä **H3harjoitus.md**.
+Aloitin tehtävän teon luomalla uuden repositoryn githubiini nimellä	'PalvHalH3' . Lisäsin sinne tiedoston nimellä **H3harjoitus.md**.
 
 Tämän jälkeen asetin git config tiedostoon käyttäjänimekseni taanttila kuten GitHubissa, sekä sähköpostiosoitteeni komennoilla **git config --global user.name "taanttila"** sekä **git config --global user.email "sähköpostini"**.
 
