@@ -14,7 +14,7 @@ Tämä harjoitus on tehty osana Tero Karvisen palvelinten hallinta kurssia. Harj
 
 - Risuaita/Hashtag eli # luo otsikon, kaksi risuaitaa ## luo otsikko kakkosen.
 
-- Sisennys luominen tabulaattorilla merkitsee koodin kirjoittamista.
+- Sisennyksen luominen tabulaattorilla merkitsee koodin kirjoittamista.
 
 - Otsikko jonka kirjoitin boldilla, onnistuu kirjoittamalla kaksi tähteä * boldattavan sanan molemmille puolille.
 
