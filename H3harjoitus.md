@@ -96,4 +96,16 @@ Tarkistin vielä, että kyseinen käyttäjä oli tehty.
 
 ![Image](https://raw.githubusercontent.com/taanttila/palvelintenhallinta/main/screenshots/kayttis.PNG)
 
+## Lähteet
+
+- Kurssi : [https://terokarvinen.com/2021/configuration-management-systems-palvelinten-hallinta-ict4tn022-2021-autumn/](https://terokarvinen.com/2021/configuration-management-systems-palvelinten-hallinta-ict4tn022-2021-autumn/)
+
+- Commonmark Help : [https://commonmark.org/help/](https://commonmark.org/help/)
+
+- Tuuli Huhtanen : [https://github.com/tuuli-huhtanen/palvelintenhallinta/blob/main/h3-versionhallinta.md](https://github.com/tuuli-huhtanen/palvelintenhallinta/blob/main/h3-versionhallinta.md)
+
+- Careerkarma : [https://careerkarma.com/blog/git-create-folder-in-github/](https://careerkarma.com/blog/git-create-folder-in-github/)
+
+- Tuomas Lintula : [https://github.com/tuomaslin/palvelintenhallinta/blob/main/MarkDown.md](https://github.com/tuomaslin/palvelintenhallinta/blob/main/MarkDown.md)
+
 
