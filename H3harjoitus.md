@@ -78,8 +78,22 @@ Kuvasta huomataan, että muutokset oli poistettu.
 
 ## d) Formula. Tee uusi salt-tila (formula, moduli, infraa koodina). (Eli uusi tiedosto esim. /srv/salt/terontila/init.sls). Voit tehdä ihan yksinkertaisen parin funktion (pkg, file...) tilan, tai edistyneemmin asentaa ja konfiguroida minkä vain uuden ohjelman: demonin, työpöytäohjelman tai komentokehotteesta toimivan ohjelman. Käytä tarvittaessa 'find -print"%T+%p\n"|sort' löytääksesi uudet asetustiedostot.
 
+En ollut varma ymmärsinkö tehtävänantoa oikein, mutta hyödynsin tehtävässä virtuaalikoneellani olevaa salt master-minion suhdetta. 
 
+Loin uuden hakemiston `/srv/salt/testitesti/` jonne loin uuden tiedoston `init.sls`.
 
+init.sls tiedostoon kirjoitin seuraavat komennot.
 
- 
+![Image](https://raw.githubusercontent.com/taanttila/palvelintenhallinta/main/screenshots/testitesti.PNG)
+
+Ajoin tiedoston komennolla `sudo salt '*' state.apply testitesti`. 
+
+Tuli vastauksena, että kaikki muutokset tehty, ja onnistunut.
+
+![Image](https://raw.githubusercontent.com/taanttila/palvelintenhallinta/main/screenshots/testitoimi.PNG)
+
+Tarkistin vielä, että kyseinen käyttäjä oli tehty.
+
+![Image](https://raw.githubusercontent.com/taanttila/palvelintenhallinta/main/screenshots/kayttis.PNG)
+
 
