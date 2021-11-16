@@ -16,7 +16,11 @@ Tämä harjoitus on tehty osana Tero Karvisen palvelinten hallinta kurssia. Harj
 
 - Sisennyksen luominen tabulaattorilla merkitsee koodin kirjoittamista.
 
-- Otsikko jonka kirjoitin boldilla, onnistuu kirjoittamalla kaksi tähteä * boldattavan sanan molemmille puolille.
+- Boldaaminen eli tekstin paksuntaminen onnistuu kirjoittamalla `**` halutun sanan molemmille puolille.
+
+- Koodisyvennys `eli tälläinen teksti` onnistuu kirjoittamalla sana ` `` ` merkkien väliin.
+
+- Kuvan lisääminen tapahtuu `![Image](kuvan linkki)` komennolla.
 
 ## a) MarkDown. Tee tämän tehtävän raportti MarkDownina. Helpointa on tehdä raportti GitHub-varastoon, jolloin md-päätteiset tiedostot muotoillaan automaattisesti. Tyhjä rivi tekee kappalejaon, risuaita '#' tekee otsikon, sisennys merkitsee koodinpätkän.
 
@@ -58,7 +62,21 @@ Kokeilin myös komentoa `git blame`. Tämä komento kertoo kuka on tehnyt muutok
 
 ## c) Huppis! Tee tyhmä muutos gittiin, älä tee commit:tia. Tuhoa huonot muutokset 'git reset --hard'. Huomaa, että tässä toiminnossa ei ole peruutusnappia.
 
+Loin uuden tiedoston komennolla `touch turhatiedosto.md`. Tiedostoon itsessään en kirjoittanut mitään, mutta kirjoitin sen jälkeen komennon `git add --all`.
 
+![Image](https://raw.githubusercontent.com/taanttila/palvelintenhallinta/main/screenshots/touchturha.PNG)
+
+Kirjoitin komennon `git status` joka kertoi että turhatiedosto oli luotu ja lisätty, mutta commitia ei oltu vielä tehty. 
+
+![Image](https://raw.githubusercontent.com/taanttila/palvelintenhallinta/main/screenshots/gitaddturha.PNG)
+
+Tämän jälkeen kokeilin komentoa `git reset --hard` joka perui kaikki tekemäni muutokset, eli turhantiedoston luomisen.
+
+![Image](https://raw.githubusercontent.com/taanttila/palvelintenhallinta/main/screenshots/gitreset.PNG)
+
+Kuvasta huomataan, että muutokset oli poistettu.
+
+## d) Formula. Tee uusi salt-tila (formula, moduli, infraa koodina). (Eli uusi tiedosto esim. /srv/salt/terontila/init.sls). Voit tehdä ihan yksinkertaisen parin funktion (pkg, file...) tilan, tai edistyneemmin asentaa ja konfiguroida minkä vain uuden ohjelman: demonin, työpöytäohjelman tai komentokehotteesta toimivan ohjelman. Käytä tarvittaessa 'find -print"%T+%p\n"|sort' löytääksesi uudet asetustiedostot.
 
 
 
