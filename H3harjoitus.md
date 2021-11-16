@@ -4,7 +4,7 @@ Tämä harjoitus on tehty osana Tero Karvisen palvelinten hallinta kurssia. Harj
 
 ## z) Lue ja tiivistä
 
-[Lähde](https://commonmark.org/help/)
+[Commonmark/help/](https://commonmark.org/help/)
 
 - Artikkelissa kerrotaan markdownin käyttöön liittyvät tärkeät komennot.
 
@@ -108,4 +108,5 @@ Tarkistin vielä, että kyseinen käyttäjä oli tehty.
 
 - Tuomas Lintula : [https://github.com/tuomaslin/palvelintenhallinta/blob/main/MarkDown.md](https://github.com/tuomaslin/palvelintenhallinta/blob/main/MarkDown.md)
 
-
+## Tekijä
+ - Tatu Anttila
